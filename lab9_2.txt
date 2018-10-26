@@ -1,0 +1,22 @@
+Consider the following statements:
+
+int *p;
+int i;
+int k;
+i = 42;
+k = i;
+p = &i;
+
+After these statements, which of the following statements will change the value of i to 75?
+
+    k = 75;
+    *k = 75;
+    p = 75;
+    *p = 75;
+    Two or more of the answers will change i to 75.
+
+
+
+
+answer
+is d)*p=75

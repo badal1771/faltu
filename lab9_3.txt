@@ -1,0 +1,5 @@
+Explain the error.
+
+char c = 'A';
+double *p = &c;
+*p is value in the given address and &c is the addresss of given data
